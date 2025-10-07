@@ -1,7 +1,7 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int majority=nums[0],j=1;
-        for(int i=1;i<nums.length;i++)
+        int majority=nums[0],j=1;int i=1;
+        for( i=1;i<nums.length;i++)
         {
             if(j==0){
             j++;
