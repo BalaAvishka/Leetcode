@@ -54,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/BalaAvishka/Leetcode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0178-rank-scores](https://github.com/BalaAvishka/Leetcode/tree/main/0178-rank-scores/) | Medium |
 <!---LeetCode Topics End-->
