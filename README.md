@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/BalaAvishka/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0202-happy-number](https://github.com/BalaAvishka/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/BalaAvishka/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BalaAvishka/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/BalaAvishka/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0202-happy-number](https://github.com/BalaAvishka/Leetcode/tree/main/0202-happy-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,5 +65,6 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/BalaAvishka/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/BalaAvishka/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
