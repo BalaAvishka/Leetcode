@@ -3,9 +3,10 @@ class Solution {
         Set<Integer> set=new HashSet<>();
         for(int val:nums)
         {
-            if(set.contains(val))
+            if(!set.add(val))
+           {
             return true;
-        set.add(val);
+           }
         }
         return false;
     }
