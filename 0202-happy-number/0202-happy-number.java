@@ -1,27 +1,32 @@
 class Solution {
+
     public boolean isHappy(int n) {
-        Set<Integer> visit = new HashSet<>();
-        
-        while (!visit.contains(n)) {
-            visit.add(n);
-            n = getNextNumber(n);
-            if (n == 1) {
+        int slow = n;
+        int fast = n;
+
+        while (true) {
+            slow = squareSum(slow);              // move 1 step
+            fast = squareSum(squareSum(fast));   // move 2 steps
+
+            if (fast == 1) {
                 return true;
             }
+
+            if (slow == fast) {
+                return false;
+            }
         }
-        
-        return false;
     }
 
-    private int getNextNumber(int n) {
-        int output = 0;
-        
-        while (n > 0) {
-            int digit = n % 10;
-            output += digit * digit;
-            n = n / 10;
+    private int squareSum(int num) {
+        int sum = 0;
+
+        while (num > 0) {
+            int digit = num % 10;
+            sum += digit * digit;
+            num = num / 10;
         }
-        
-        return output;
+
+        return sum;
     }
 }
