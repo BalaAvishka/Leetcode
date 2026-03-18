@@ -1,32 +1,20 @@
 class Solution {
-
     public boolean isHappy(int n) {
-        int slow = n;
-        int fast = n;
-
-        while (true) {
-            slow = squareSum(slow);              // move 1 step
-            fast = squareSum(squareSum(fast));   // move 2 steps
-
-            if (fast == 1) {
-                return true;
-            }
-
-            if (slow == fast) {
-                return false;
-            }
+        Set<Integer> visited=new HashSet<>();
+        int sum,digit;
+        while(n!=1)
+    {
+        if(!visited.add(n))
+         return false;
+        sum=0;
+        while(n!=0){
+            digit=n%10;
+            sum=sum+(digit*digit);
+            n=n/10;
         }
+        n=sum;
     }
+    return true;
+    }}
 
-    private int squareSum(int num) {
-        int sum = 0;
-
-        while (num > 0) {
-            int digit = num % 10;
-            sum += digit * digit;
-            num = num / 10;
-        }
-
-        return sum;
-    }
-}
+     
