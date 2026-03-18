@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/BalaAvishka/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0217-contains-duplicate](https://github.com/BalaAvishka/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BalaAvishka/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0217-contains-duplicate](https://github.com/BalaAvishka/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +60,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/BalaAvishka/Leetcode/tree/main/0178-rank-scores/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/BalaAvishka/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
