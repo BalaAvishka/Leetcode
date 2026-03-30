@@ -33,6 +33,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/BalaAvishka/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BalaAvishka/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/BalaAvishka/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/BalaAvishka/Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -67,4 +68,8 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/BalaAvishka/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/BalaAvishka/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/BalaAvishka/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
