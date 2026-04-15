@@ -1,15 +1,18 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-      int noRows=accounts.length;
-      int nocols=accounts[0].length;
-      int sum,max=0;
-      for(int rows=0;rows<noRows;rows++)
-   {
-    sum=0;
-    for(int cols=0;cols<nocols;cols++)
-   {
-    sum=sum+accounts[rows][cols];
-   }
-   if(sum>max)
-   max=sum;}  return max; }
- }
+
+        int max=0;
+        for (int i=0;i<accounts.length;i++)
+        {
+            int sum=0;
+            for (int j=0;j<accounts[0].length;j++)
+            {
+                sum=sum+accounts[i][j];
+            }
+            if (sum>max)
+              max=sum;
+        }
+        return max;
+        
+    }
+}
