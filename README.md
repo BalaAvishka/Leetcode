@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BalaAvishka/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/BalaAvishka/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/BalaAvishka/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/BalaAvishka/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/BalaAvishka/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
