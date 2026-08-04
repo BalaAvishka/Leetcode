@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/BalaAvishka/Leetcode/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/BalaAvishka/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/BalaAvishka/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/BalaAvishka/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
