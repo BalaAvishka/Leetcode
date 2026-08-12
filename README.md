@@ -66,6 +66,7 @@
 | ------- |
 | [0177-nth-highest-salary](https://github.com/BalaAvishka/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/BalaAvishka/Leetcode/tree/main/0178-rank-scores/) | Medium |
+| [0184-department-highest-salary](https://github.com/BalaAvishka/Leetcode/tree/master/0184-department-highest-salary) |
 ## Hash Table
 |  |
 | ------- |
